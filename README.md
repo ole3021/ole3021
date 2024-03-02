@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-[//]: <> (`- 🚀 I’m currently working on [Serverless Framework](https://serverless.com) with [Tencent Cloud](https://cloud.tencent.com/product/serverless-catalog)`)
 - 🛳 I was working as Technical PM, Lead Software Engineer, Backend Architect, Software Engineer
 - 🕹️ My favourite languages: Node.js, Typescript, Go, Rust(adopting)
 - 🪜 My favourite stack: [Next.js](https://nextjs.org/), [Bun](https://bun.sh/), [Fiber](https://gofiber.io/), [NestJS](https://nestjs.com/), [jotai](https://jotai.org/), [Serverless](https://www.serverless.com/)
