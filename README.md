@@ -10,3 +10,9 @@
 - 📫 How to reach me: 
   - [ole3021@gmail.com](mailto:ole3021@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/ole3021/)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,go,bun,flutter,nextjs,nestjs,react,prisma,graphql,jest,mongodb,postgres,redis,figma" />
+  </a>
+</p>
