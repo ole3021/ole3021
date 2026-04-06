@@ -13,6 +13,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,go,bun,flutter,nextjs,svelte,graphql,jest,mongodb,postgres,redis,rabbitmq,supabase,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=bun,ts,go,svelte,graphql,jest,mongodb,postgres,redis,rabbitmq,supabase,docker,figma" />
   </a>
 </p>
